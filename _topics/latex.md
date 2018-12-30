@@ -46,7 +46,7 @@ Finally, we will need a favorite text editor and a copy of MATLAB.
 		
 The template files are in the following github repo:
 
-* <i class="fab fa-github"></i><https://github.com/ucsb-cs111/latex-templates>
+* <i class="fab fa-github"></i><https://github.com/ucsb-cs111/latex-template>
 
 Here is a summary of the files:
 			   
