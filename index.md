@@ -43,3 +43,17 @@ This site is maintained in this github repo: <{{site.github_url}}>
 </div>
 </div>
 
+
+{% include collapse-button.html label="Resources" id="resources" %}
+<div class="collapse" id="resources">
+<div class="card card-body" markdown="1">
+{%- include resources_list.html -%}
+</div>
+</div>
+
+{% include collapse-button.html label="Textbooks" id="textbooks" %}
+<div class="collapse" id="textbooks">
+<div class="card card-body" markdown="1">
+{%- include textbooks_list.html -%}
+</div>
+</div>
