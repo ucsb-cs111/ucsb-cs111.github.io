@@ -44,6 +44,9 @@ offering_links:
   - title: Hwk
     url: /hwk_list/
     description: "Homework Assignments"
+  - title: Lect
+    url: /lectures_list/
+    description: "Lectures"
   - title: Exam
     url: /exam_list/
     description: "Exams"
