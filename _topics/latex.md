@@ -3,6 +3,9 @@ topic: "LaTeX Tutorial"
 desc: "A formatting language for Mathematical documents"
 ---
 
+TODO: This LaTeX tutorial has some stuff in it that's specific to working with MATLAB.  It might be good to factor that out.
+The original is here: <http://cs.ucsb.edu/~gilbert/cs111/latex/>
+
 
 # Resources
 
