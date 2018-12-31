@@ -4,6 +4,8 @@ title: UCSB CS111
 
 # {{site.course}}&mdash;{{site.course_title}}
 
+{% include cs111_logo.html %}
+
 {% include collapse-button.html label="About this course" id="about" %}
 <div class="collapse" id="about">
  <div class="card card-body" markdown="1">
