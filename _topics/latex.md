@@ -3,6 +3,9 @@ topic: "LaTeX Tutorial"
 desc: "A formatting language for Mathematical documents"
 ---
 
+TODO: This LaTeX tutorial has some stuff in it that's specific to working with MATLAB.  It might be good to factor that out.
+The original is here: <http://cs.ucsb.edu/~gilbert/cs111/latex/>
+
 
 # Resources
 
@@ -14,7 +17,7 @@ prominently at the top.
 
 * [<i class="far fa-file-pdf"></i> The Not So Short Introduction to LaTeX2e](http://tobi.oetiker.ch/lshort/lshort.pdf) - Great introduction to LaTeX
 * [LaTeX Wikibook](http://en.wikibooks.org/wiki/LaTeX) - Full of detailed examples for just about anything
-* [Comprehensive list of symbols])(http://www.ctan.org/tex-archive/info/symbols/comprehensive/symbols-a4.pdf) - Don't know
+* [Comprehensive list of symbols](http://www.ctan.org/tex-archive/info/symbols/comprehensive/symbols-a4.pdf) - Don't know
    how to make that symbol that was used in class? Look it up in this
    massive PDF (try searching the closest english you know, or look
    through the index at the end).
@@ -63,7 +66,7 @@ Run `make` in the `template` directory.
 
 If your machine doesn't have `make`, run `pdflatex latex_tut` (you may need to run this 3 times).
 
-If you have some time, [rubber](https://launchpad.net/rubber)">rubber</a> is a *much*
+If you have some time, [rubber](https://launchpad.net/rubber) is a *much*
 better alternative to `make` or the by-hand method.
 
 # Create a Matlab figure
