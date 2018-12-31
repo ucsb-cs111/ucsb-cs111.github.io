@@ -47,7 +47,7 @@ offering_links:
   - title: Lect
     url: /lectures_list/
     description: "Lectures"
-  - title: Exam
+  - title: Exams
     url: /exam_list/
     description: "Exams"
   - title: Cal
