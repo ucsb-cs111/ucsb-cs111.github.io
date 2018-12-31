@@ -58,10 +58,6 @@ offering_links:
        - title: Info Pages
          url: /info_list/
          description: "List of General Information Pages"
-       - title: Office Hours	
-         url: /info/office_hours/
-       - title: Staff
-         url: /staff_list/
   - title: Links
     dropdown:	 
        - title: Gauchospace
