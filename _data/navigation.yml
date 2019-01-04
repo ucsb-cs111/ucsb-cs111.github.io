@@ -16,17 +16,7 @@ production_url: https://ucsb-cs111.github.io
 home:
    title: UCSB CS111
    url: /
-   baseurl: /
-
-main_dropdown:
-   title: Resources
-   items:
-     - title: Topics
-       url: /topic_list/
-     - title: Resources
-       url: /resource_list/
-     - title: Textbooks
-       url: /textbook_list/       
+   baseurl: /   
 
 offerings:
    title: W19
@@ -41,41 +31,24 @@ offerings:
         baseurl: /s19
 
 offering_links:
-  - title: Hwk
-    url: /hwk_list/
-    description: "Homework Assignments"
   - title: Lect
     url: /lectures_list/
     description: "Lectures"
+  - title: Hwk
+    url: /hwk_list/
+    description: "Homework Assignments"
   - title: Exams
     url: /exam_list/
     description: "Exams"
   - title: Cal
     url: /info/calendar/
     description: "Assignment Calendar"
-  - title: More
-    dropdown:
-       - title: Syllabus
-         url: /info/syllabus/
-         description: "Syllabus"    
-       - title: Info Pages
-         url: /info_list/
-         description: "List of General Information Pages"
-  - title: Links
-    dropdown:	 
-       - title: Gauchospace
-         url: https://gauchospace.ucsb.edu
-         description: "Overall Grade Information"
-       - title: GradeScope
-         url: https://gradescope.com
-         description: "HW and Lab Grades"
-       - title: Piazza
-         url: https://piazza.com
-         description: "Q&A Forum"
-  - title: Github
-    dropdown:	 
-       - title: Lecture Files
-         url: https://github.com/ucsb-cs111/w19-lecture-files
-         description: "Files from Lecture"
-
-
+  - title: Piazza
+    url: https://piazza.com
+    description: "Q&A Forum"
+  - title: GradeScope
+    url: https://gradescope.com
+    description: "Quiz and Exam Grades"
+  - title: All Lecture Files
+    url: https://github.com/ucsb-cs111/w19-lecture-files
+    description: "Files from Lecture"
