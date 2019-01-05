@@ -31,15 +31,6 @@ offerings:
         baseurl: /s19
 
 offering_links:
-  - title: Lectures
-    url: /lectures_list/
-    description: "Lectures"
-  - title: Homework
-    url: /hwk_list/
-    description: "Homework Assignments"
-  - title: Exams
-    url: /exam_list/
-    description: "Exams"
   - title: Calendar
     url: /info/calendar/
     description: "Assignment Calendar"
