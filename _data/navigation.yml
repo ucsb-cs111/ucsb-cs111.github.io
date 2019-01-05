@@ -31,16 +31,16 @@ offerings:
         baseurl: /s19
 
 offering_links:
-  - title: Lect
+  - title: Lectures
     url: /lectures_list/
     description: "Lectures"
-  - title: Hwk
+  - title: Homework
     url: /hwk_list/
     description: "Homework Assignments"
   - title: Exams
     url: /exam_list/
     description: "Exams"
-  - title: Cal
+  - title: Calendar
     url: /info/calendar/
     description: "Assignment Calendar"
   - title: Piazza
