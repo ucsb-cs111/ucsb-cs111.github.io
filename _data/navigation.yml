@@ -34,12 +34,12 @@ offering_links:
   - title: Calendar
     url: /info/calendar/
     description: "Assignment Calendar"
-  - title: Piazza
-    url: https://piazza.com
-    description: "Q&A Forum"
-  - title: GradeScope
-    url: https://gradescope.com
-    description: "Quiz and Exam Grades"
-  - title: All Lecture Files
+  - title: All Lecture and Section Files
     url: https://github.com/ucsb-cs111/w19-lecture-files
     description: "Files from Lecture"
+  - title: Piazza
+    url: https://piazza.com/ucsb/winter2019/cs111
+    description: "Q&A Forum"
+  - title: GradeScope
+    url: https://www.gradescope.com/courses/36444
+    description: "Quiz and Exam Grades"
