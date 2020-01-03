@@ -9,6 +9,7 @@
 
 production_url: https://ucsb-cs111.github.io
 
+
 # List the title and url for each item on navigation bar.
 # For items that should be relative urls, put the baseurl of the site
 # they come from, / for main site, and /f18, /s19, etc for child sites.
@@ -16,30 +17,69 @@ production_url: https://ucsb-cs111.github.io
 home:
    title: UCSB CS111
    url: /
-   baseurl: /   
+   baseurl: /
 
-offerings:
-   title: W19
-   url: /	
-   baseurl: /w19
+main_dropdown:
+   title: Resources
    items:
-      - title: W19
-        url: /
-        baseurl: /w19
-      - title: S19
-        url: /
-        baseurl: /s19
+     - title: Topics
+       url: /topics/
+     - title: Resources
+       url: /resources/
+     - title: Textbooks
+       url: /textbooks/       
 
-offering_links:
-  - title: Calendar
-    url: /info/calendar/
-    description: "Assignment Calendar"
-  - title: All Lecture and Section Files
-    url: https://github.com/ucsb-cs111/w19-lecture-files
-    description: "Files from Lecture"
-  - title: Piazza
-    url: https://piazza.com/ucsb/winter2019/cs111
-    description: "Q&A Forum"
-  - title: GradeScope
-    url: https://www.gradescope.com/courses/36444
-    description: "Quiz and Exam Grades"
+offering_menus:
+  -
+    term: W20
+    baseurl: /w20
+    items:
+     - title: Calendar
+       url: /info/calendar/
+       description: "Assignment Calendar"
+     - title: All Lecture and Section Files
+       url: https://github.com/ucsb-cs111/w20-lecture-files
+       description: "Files from Lecture"
+     - title: Piazza
+       url: https://piazza.com/ucsb/winter2020/cs111
+       description: "Q&A Forum"
+     - title: GradeScope
+       url: https://www.gradescope.com/courses/TBA
+       description: "Quiz and Exam Grades"
+  -
+    term: S19
+    baseurl: /s19
+    items:
+     - title: Syllabus
+       url: /info/syllabus
+       description: "Syllabus"
+     - title: Calendar
+       url: /info/calendar
+       description: "Assignment Calendar"
+     - title: All Lecture and Section Files
+       url: https://github.com/ucsb-cs111/s19-lecture-files
+       description: "Files from Lecture"
+     - title: Piazza
+       url: https://piazza.com/ucsb/spring2019/cs111
+       description: "Q&A Forum"
+     - title: GradeScope
+       url: https://www.gradescope.com
+       description: "Gradescope"
+  -
+    term: W19
+    baseurl: /w19
+    items:
+     - title: Calendar
+       url: /info/calendar/
+       description: "Assignment Calendar"
+     - title: All Lecture and Section Files
+       url: https://github.com/ucsb-cs111/w19-lecture-files
+       description: "Files from Lecture"
+     - title: Piazza
+       url: https://piazza.com/ucsb/winter2019/cs111
+       description: "Q&A Forum"
+     - title: GradeScope
+       url: https://www.gradescope.com/courses/36444
+       description: "Quiz and Exam Grades"
+
+
